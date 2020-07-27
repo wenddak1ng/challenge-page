@@ -16,6 +16,10 @@ time, mark, audio, video {
   border: 0;
   vertical-align: baseline;
 }
+.text-center {
+  text-align: center;
+  text-align-last: center;
+}
 .title1 {
   font-size: 45px;
   text-transform: uppercase;
